@@ -1,2 +1,2 @@
-# cmpe-257_Machine_Learning
-Scikit K-Means, Ward Agglomerative and PyTorch K-means Clustering
+# cmpe-257-Machine_Learning_HW1_KMeans Clustering 
+Scikit K-Means, Ward Agglomerative and PyTorch K-means Clustering Implementation
