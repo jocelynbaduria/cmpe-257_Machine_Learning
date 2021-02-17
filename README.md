@@ -1,6 +1,6 @@
 Data Definitions
 
-Our team used dataset from NASA and we perform data cleaning for the following features:
+Our team used dataset from [NASA] (https://ssd.jpl.nasa.gov/sbdb_query.cgi?obj_group=all;obj_kind=ast;obj_numbered=all;OBJ_field=0;ORB_field=0;table_format=HTML;max_rows=10;format_option=comp;query=1;c_fields=AcBhBgBjBkBlBiBnBsCkCqCnCoCpAiApAqArAsAtAuAvAwAxAy;c_sort=BhA;.cgifields=format_option;.cgifields=ast_orbit_class;.cgifields=obj_kind;.cgifields=table_format;.cgifields=obj_group;.cgifields=obj_numbered;.cgifields=com_orbit_class&page=3) and we perform data cleaning for the following features:
 
           1. dia = Diameter                     
           2. rot_per  = Rotation Period         
